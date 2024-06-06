@@ -1,1 +1,1 @@
-a simple bakery management app written in java using the swing framework. it allows you to order food, add/remove stocks, and check total sales reports. it's been a long time since i looked at the code for this, hopefully all the bugs were already removed by yours truly. 
+A simple bakery management app written in java using the swing framework. It allows you to order food, add/remove stocks, and check total sales reports.
